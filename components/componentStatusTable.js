@@ -12,7 +12,7 @@ import {
   TableCell,
 } from '@/components/ui/table';
 import Link from 'next/link';
-import { BookOpen, CheckIcon, FigmaIcon, LinkIcon } from 'lucide-react';
+import { BookOpen, CheckIcon, FigmaIcon, Laptop, LinkIcon, Smartphone } from 'lucide-react';
 
 export default function Component() {
   const [search, setSearch] = useState('');
@@ -169,9 +169,9 @@ export default function Component() {
               </TableHead>
               <TableHead
                 className="cursor-pointer"
-                onClick={() => handleSort('mobile')}
+              
               >
-                Mobile
+                 <Smartphone className=' size-5' />
                 {sortColumn === 'mobile' && (
                   <span className="ml-1">
                     {sortOrder === 'asc' ? '\u2191' : '\u2193'}
@@ -180,9 +180,9 @@ export default function Component() {
               </TableHead>
               <TableHead
                 className="cursor-pointer"
-                onClick={() => handleSort('desktop')}
+                
               >
-                Desktop
+                <Laptop className="ml-1"/>
                 {sortColumn === 'desktop' && (
                   <span className="ml-1">
                     {sortOrder === 'asc' ? '\u2191' : '\u2193'}
