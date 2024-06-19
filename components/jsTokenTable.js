@@ -27,7 +27,7 @@ import {
                   <div className="w-8 h-8 rounded-full  bg-teal-500" />
                 </TableCell>
                 <TableCell>Brand</TableCell>
-                <TableCell>$brand</TableCell>
+                <TableCell>$js-brand</TableCell>
                 <TableCell className="text-left">#0D9488</TableCell>
                 <TableCell className=" w-1/3">
                   A vibrant, passionate color associated with energy and
@@ -39,7 +39,7 @@ import {
                   <div className="w-8 h-8 rounded-full bg-teal-100" />
                 </TableCell>
                 <TableCell>Brand Muted</TableCell>
-                <TableCell>$brand-muted</TableCell>
+                <TableCell>$js-brand-muted</TableCell>
                 <TableCell className="text-left">#CCFBF1</TableCell>
                 <TableCell className=" w-1/3">
                   A vibrant, passionate color associated with energy and

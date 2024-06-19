@@ -27,7 +27,7 @@ export default function Component() {
                 <div className="w-8 h-8 rounded-full  bg-blue-500" />
               </TableCell>
               <TableCell>Brand</TableCell>
-              <TableCell>$brand</TableCell>
+              <TableCell>$rec-brand</TableCell>
               <TableCell className="text-left">#3B82F6</TableCell>
               <TableCell className=" w-1/3">
                 A vibrant, passionate color associated with energy and
@@ -39,7 +39,7 @@ export default function Component() {
                 <div className="w-8 h-8 rounded-full bg-blue-300" />
               </TableCell>
               <TableCell>Brand Muted</TableCell>
-              <TableCell>$brand-muted</TableCell>
+              <TableCell>$rec-brand-muted</TableCell>
               <TableCell className="text-left">#93C5FD</TableCell>
               <TableCell className=" w-1/3">
                 A vibrant, passionate color associated with energy and

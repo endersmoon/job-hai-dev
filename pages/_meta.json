@@ -1,8 +1,14 @@
 {
     "index": "Get Started",
     "foundation":"Foundation",
+    "---": {
+        "type": "separator"
+      },
      "tokens":" Token",
      "components":"Components",
-     "assets":"Assets"
+     "assets":"Assets",
+     "---": {
+        "type": "separator"
+      }
     
   }
