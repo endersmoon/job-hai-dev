@@ -51,7 +51,7 @@ export default function Component() {
         description: 'A customizable button component',
         figma: '#',
         docs: '#',
-        owner: 'Jane Doe',
+        owner: 'Tushar',
       },
       {
         component: 'Modal',
@@ -61,7 +61,7 @@ export default function Component() {
         description: 'A reusable modal component',
         figma: '#',
         docs: '#',
-        owner: 'John Smith',
+        owner: 'Bhumika',
       },
       {
         component: 'Dropdown',
@@ -71,7 +71,7 @@ export default function Component() {
         description: 'A dropdown menu component',
         figma: '#',
         docs: '#',
-        owner: 'Sarah Lee',
+        owner: 'Oindrilla',
       },
       {
         component: 'Card',
@@ -81,7 +81,7 @@ export default function Component() {
         description: 'A flexible card component',
         figma: '#',
         docs: '#',
-        owner: 'Michael Brown',
+        owner: 'Bhumika',
       },
       {
         component: 'Accordion',
@@ -91,7 +91,7 @@ export default function Component() {
         description: 'An accordion component for collapsible content',
         figma: '#',
         docs: '#',
-        owner: 'Emily Davis',
+        owner: 'Bhumika',
       },
       {
         component: 'Tabs',
@@ -101,7 +101,7 @@ export default function Component() {
         description: 'A tabbed interface component',
         figma: '#',
         docs: '#',
-        owner: 'David Lee',
+        owner: 'Tushar',
       },
     ];
     if (search) {
